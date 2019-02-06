@@ -1,7 +1,0 @@
-DEPENDENCIES
-  Elasticsearch
-    git: git@github.com:Mhaventhan/ElasticsearchCookBook.git
-    revision: 36ca6b86cd6abeffdf41238e73f1209cca7ba637
-
-GRAPH
-  Elasticsearch (0.1.0)
