@@ -1,0 +1,7 @@
+DEPENDENCIES
+  Elasticsearch
+    git: git@github.com:Sivachel/Mhav-s-ElasticSearchCookbook.git
+    revision: f9e67ca1941f445cf0ce497133c07185cc6ba1e2
+
+GRAPH
+  Elasticsearch (0.1.0)

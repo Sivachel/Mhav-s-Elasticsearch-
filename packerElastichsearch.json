@@ -19,6 +19,7 @@
       "most_recent": true
     },
     "instance_type": "t2.micro",
+    "subnet_id": "subnet-0e9b6138ff1ce18f2",
     "ssh_username": "ubuntu",
     "ami_name": "Mhav.A-Elasticsearch-{{timestamp}}"
   }],
